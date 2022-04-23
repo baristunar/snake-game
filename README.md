@@ -4,10 +4,11 @@
 
 ## Introduction
 
-A basic snake game made with canvas and JavaScript.
+A basic snake game made with canvas and JavaScript. Use the keyboard arrow keys to start the game.
 
 ## Deployment Link
 
+https://snake-game-psi-self.vercel.app/
 ## Installation
 
 * Clone project to your computer 
