@@ -1,0 +1,10 @@
+body {
+  background: rgb(73, 81, 81);
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
